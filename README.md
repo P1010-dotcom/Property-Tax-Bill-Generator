@@ -27,3 +27,4 @@ int main() {
     printf("TOTAL TAX       : %d\n", tax);
     printf("-------------------------------------\n");
     return 0;
+}
