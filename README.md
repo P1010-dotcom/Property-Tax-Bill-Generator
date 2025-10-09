@@ -2,9 +2,9 @@
 int main() {
     char name[50], type;
     int area, rate, tax;
-    printf("=============================================\n");
+    printf("=================================\n");
     printf(" PROPERTY TAX BILL SYSTEM     \n");
-    printf("=============================================\n");
+    printf("=================================\n");
     printf("Enter Owner Name          : ");
     scanf("%s", name);
     printf("Enter Property Type (R/C) : ");
